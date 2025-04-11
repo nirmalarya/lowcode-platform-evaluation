@@ -4,7 +4,6 @@
 
 | Criteria | Builder.io | Retool | OutSystems | Appsmith |
 |----------|------------|--------|------------|----------|
-| Version Evaluated | Latest as of Oct 2023 | Latest as of Oct 2023 | Latest as of Oct 2023 | Latest as of Oct 2023 |
 | Pricing Model | Tiered subscription | User-based subscription | Enterprise pricing, contact sales | Free open-source + paid cloud |
 | Deployment Options | Cloud, self-hosted | Cloud, self-hosted | Cloud, on-premises | Cloud, self-hosted, Docker |
 
